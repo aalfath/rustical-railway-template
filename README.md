@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/rustical?utm_medium=integration&utm_source=button&utm_campaign=rustical)
+
 # RustiCal on Railway
 
 Railway template for [RustiCal](https://github.com/lennart-k/rustical) **v0.20.0**, a small CalDAV and CardDAV server for calendars, tasks and contacts, with a web UI and per-device app tokens.
