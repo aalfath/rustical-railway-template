@@ -1,0 +1,1 @@
+`icon.png` / `icon.svg`: template icon. RustiCal has no logo of its own, so this is the calendar icon from RustiCal's web UI (`crates/frontend/public/templates/icons/calendar.svg` at v0.20.0, adapted from [iconoir](https://iconoir.com/), MIT) on a dark tile.
